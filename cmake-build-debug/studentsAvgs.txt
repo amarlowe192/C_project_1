@@ -1,0 +1,46 @@
+Elissa Marlowe 
+Letter Grade: B
+Number Grade: 81.1667
+Rounded Number Grade: 81
+
+Noah Beams 
+Letter Grade: A
+Number Grade: 90
+Rounded Number Grade: 90
+
+Michael Beams 
+Letter Grade: C
+Number Grade: 72.1667
+Rounded Number Grade: 72
+
+Allie Marlowe 
+Letter Grade: A
+Number Grade: 94.5
+Rounded Number Grade: 95
+
+Carly McMahon 
+Letter Grade: F
+Number Grade: 45.6667
+Rounded Number Grade: 46
+
+Connor Duren 
+Letter Grade: B
+Number Grade: 85.1667
+Rounded Number Grade: 85
+
+Samuel Allsup 
+Letter Grade: B
+Number Grade: 88
+Rounded Number Grade: 88
+
+Jaida Wright 
+Letter Grade: A
+Number Grade: 93.1667
+Rounded Number Grade: 93
+
+Meliodas Wrath 
+Letter Grade: A
+Number Grade: 100
+Rounded Number Grade: 100
+
+
