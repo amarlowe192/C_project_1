@@ -64,7 +64,7 @@ void tokenizer(string s){
     i=0;
 
     while(ss >> word) {
-        cout << word << endl;
+        
         istringstream(word) >> holder;
         if (checkNum(word)) {
             varForIF = false;
