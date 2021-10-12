@@ -64,7 +64,7 @@ void tokenizer(string s){
     i=0;
 
     while(ss >> word) {
-        
+        //cout << word << endl;
         istringstream(word) >> holder;
         if (checkNum(word)) {
             varForIF = false;
@@ -90,8 +90,9 @@ void tokenizer(string s){
 
 int main() {
 
+
     while(getline(myReadFile, line)){
-        tokenizer(line);
+       tokenizer(line);
     }
    myReadFile.close();
    myWriteFile.close();
